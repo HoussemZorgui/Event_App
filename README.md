@@ -1,53 +1,44 @@
-# Event App 🎉
+# Event App
 
-Event App is a mobile application built with **Flutter** to facilitate event management and discovery in real-time.
+Event App built with Flutter, developed by **Houssem Zorgui**.
 
 ![Event App UI](https://user-images.githubusercontent.com/67297759/188787191-d01cad83-3bc4-4800-9476-74105da20f34.png)
 
-## 🚀 Features
-
-✅ Browse and discover upcoming events  
-✅ Book tickets directly from the app  
-✅ Receive notifications and reminders for saved events  
-✅ Modern and intuitive user interface  
-✅ Compatible with Android and iOS  
-
 ## 📥 Installation
 
-1. **Install Flutter**: Make sure Flutter is installed on your machine by following [this guide](https://flutter.dev/docs/get-started/install).
-2. **Clone the project**:
+Follow these steps to set up the project:
+
+1. Install [Flutter](https://flutter.dev/docs/get-started/install) on your machine.
+2. Clone this repository:
    ```sh
    git clone https://github.com/HoussemZorgui/event-app.git
    cd event-app
    ```
-3. **Install dependencies**:
+3. Fetch dependencies:
    ```sh
    flutter pub get
    ```
-4. **Run the application**:
+4. Run the app on an emulator or physical device:
    ```sh
    flutter run
    ```
-   > **Note**: Make sure you have an emulator or a physical device connected.
 
-## 💡 Technologies Used
+## ✨ Features
 
-- **Flutter**: Cross-platform UI framework  
-- **Dart**: Programming language  
-- **Firebase** (if used): Real-time backend  
-- **Provider / Riverpod**: State management  
+- User-friendly event browsing
+- Seamless UI with modern design
+- Cross-platform compatibility (Android & iOS)
+- Smooth animations and navigation
+- Easy to customize and expand
 
-## 🏆 About the Author
+## 👏 Credits
 
-Developed by **Houssem Zorgui**, a software engineer passionate about mobile development and new technologies.
+- Built using [Flutter](https://flutter.dev), a powerful cross-platform framework.
 
-📌 [GitHub](https://github.com/HoussemZorgui) | [LinkedIn](https://www.linkedin.com/in/engineer-houssem-zorgui)
+## 📜 License
 
-## 📜 Credits
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
+---
 
-- Thanks to [Flutter](https://flutter.dev) for this powerful and flexible framework
-
-## ⚖️ License
-
-All code is available under the **MIT** license. See the [LICENSE](LICENSE) file for more details.
+Developed with ❤️ by **Houssem Zorgui**
