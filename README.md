@@ -45,7 +45,7 @@ Developed by **Houssem Zorgui**, a software engineer passionate about mobile dev
 
 ## 📜 Credits
 
-- UI inspired by [Andri](https://dribbble.com/andri145) – [Event App Design](https://dribbble.com/shots/17444328-Event-Mobile-Apps-Design)
+
 - Thanks to [Flutter](https://flutter.dev) for this powerful and flexible framework
 
 ## ⚖️ License
